@@ -1,5 +1,4 @@
 # In-context-RL-with-AD
-In-context Reinforcement Learning with Algorithm Distillation
 
 Отчет по заданию на вакансию [Intern Research Scientist](https://shell-lillipilli-1d0.notion.site/Intern-Research-Scientist-1eb13525009b419bb93d5181bfe695e2#df4bc384f00a47e1b37186ce51b882c0)
 
